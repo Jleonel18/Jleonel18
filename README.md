@@ -53,7 +53,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/jose-leonel-lopez-ajvix-348840276">
+  <a href="www.linkedin.com/in/jleonel18">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lopezajvixjoseleonel@gmail.com">
