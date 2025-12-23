@@ -53,23 +53,17 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/AVS1508">
+  <a href="www.linkedin.com/in/jose-leonel-lopez-ajvix-348840276">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lopezajvixjoseleonel@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/adityavs_">
+  <a href="https://www.instagram.com/jose_leonel_18/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/AVS1508">
+  <a href="https://www.facebook.com/joseleonel.lopezajvix">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.pinterest.ca/AVS1508">
-    <img src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=Pinterest&logoColor=white"/>
-  </a>
-  <a href="https://www.behance.net/AVS1508">
-    <img src="https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=Behance&logoColor=white"/>
   </a>
 </p>
 
